@@ -1,0 +1,151 @@
+UiPath Studio
+Product Lifecyclev2020.10Submit Product FeedbackLog In
+The UiPath Studio Guide
+UiPath StudioEnglishv2020.10Home
+Search for...
+Getting Started
+Introduction
+About Backward and Forward Compatibility
+Install Studio
+View All 10
+Automation Projects
+About Automation Projects
+About Libraries
+Managing Activities Packages
+View All 8
+Dependencies
+About Dependencies
+Managing Dependencies
+Project Dependencies Mass Update
+Types of Workflows
+Sequences
+Flowcharts
+State Machines
+View All 4
+File Comparison
+About File Comparison
+Comparing Files
+Automation Best Practices
+Workflow Design
+UI Automation
+Project Organization
+View All 4
+Source Control Integration
+About Version Control
+Managing Projects with GIT
+Managing Projects with TFS
+View All 5
+Debugging
+About Debugging
+The Diagnostic Tool
+About The Diagnostic Tool
+Workflow Analyzer
+About Workflow Analyzer
+Building Custom Rules
+Naming Rules
+View All 10
+Studio Activities SDK
+Building Activities Project Settings
+Creating Custom Wizards
+Prioritize Activities by Scope
+View All 4
+Variables
+Managing Variables
+The Variables Panel
+Types of Variables
+View All 4
+Arguments
+Managing Arguments
+The Arguments Panel
+Using Arguments
+Imported Namespaces
+About Imported Namespaces
+Importing New Namespaces
+Recording
+About Recording
+Recording Types
+Automatic Recording
+View All 6
+UI Elements
+About UI Elements
+UI Activities Properties
+Input Methods
+View All 8
+Control Flow
+About Control Flow
+Control Flow Activities
+Selectors
+About Selectors
+UIExplorer
+Selectors with Wildcards
+View All 9
+Object Repository
+About Object Repository
+Creating an Object Repository
+Reusing Objects and UI Libraries
+Data Scraping
+About Data Scraping
+Example of Using Data Scraping
+Image and Text Automation
+About Image and Text Automation
+Mouse and Keyboard Activities
+Example of using Mouse and Keyboard Automation
+View All 9
+Automating Citrix Technologies
+About Automating Citrix Technologies
+Configuration Steps
+Example of Automating a Citrix App
+View All 4
+RDP Automation
+About Native RDP Automation
+Configuration Steps
+How Native RDP Automation Works
+View All 5
+SAP Automation
+SAP WinGUI
+SAP Fiori
+VMware Horizon Automation
+About VMware Horizon Automation
+Configuration Steps
+Logging
+Studio Logs
+Setup Logs
+OCR Diagnostic Logs
+View All 5
+The ScaleCoordinates Migration Tool
+The ScaleCoordinates Migration Tool
+Best Practices and Limitations
+Example of Using the ScaleCoordinates Migration Tool
+The ScreenScrapeJavaSupport Tool
+About the ScreenScrapeJavaSupport Tool
+Argument Descriptions for the ScreenScrapeJavaSupport Tool
+The WebDriver Protocol
+About the WebDriver Protocol
+Configuration Steps
+Known Issues and Limitations
+StudioPro
+Introduction
+Application Testing
+RPA Testing
+View All 5
+Extensions
+About Extensions
+About the SetupExtensions Tool
+About UiPath Remote Runtime
+View All 12
+Troubleshooting
+Internet Explorer x64
+Microsoft Office Interop Issues
+Identifying UI Elements in PDF With Accessibility Options
+View All 7
+Terms of Use
+ 
+Contact Us
+ 
+Our Ecosystem
+ 
+Academy
+ 
+Forum
+ 
+Start Trial
